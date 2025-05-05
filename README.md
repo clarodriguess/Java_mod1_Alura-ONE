@@ -1,4 +1,4 @@
-# ALURA + ORACLE ONE | TECH FOUNDATION - Especialização Back-End
+# ORACLE + ALURA | TECH FOUNDATION <br> Especialização Back-End
 ### *Java: criando a sua primeira aplicação*
 
 
